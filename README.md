@@ -7,7 +7,7 @@
 <br>
 <p> - HTML </p>
 <p> - CSS  </p>
-<p> - Responsivo </p>
+
 <br>
 <br>
 
